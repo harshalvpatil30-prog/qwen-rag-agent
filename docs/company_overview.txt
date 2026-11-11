@@ -1,0 +1,7 @@
+About Example Store
+
+Example Store is an online electronics retailer founded in 2019 and based in Pune, India.
+We sell phones, headphones, smart watches, and accessories.
+Our team has 45 employees across customer support, logistics, and engineering.
+Our mission is to make quality electronics affordable with honest support.
+We serve more than 200,000 customers across India.

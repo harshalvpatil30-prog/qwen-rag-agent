@@ -1,0 +1,16 @@
+Frequently Asked Questions
+
+Q: How do I reset my password?
+A: Click "Forgot password" on the login page, enter your email, and follow the link we send you. The link expires after 15 minutes.
+
+Q: How can I contact customer support?
+A: Email support@examplestore.com or call 1800-123-456 between 9 AM and 6 PM, Monday to Saturday.
+
+Q: Can I change my delivery address after ordering?
+A: Yes, but only before the order is dispatched. Contact support with your order ID.
+
+Q: Do you offer gift wrapping?
+A: Yes. Gift wrapping costs 30 rupees per item and can be selected at checkout.
+
+Q: Which payment methods are accepted?
+A: UPI, credit and debit cards, net banking, and cash on delivery for orders under 5000 rupees.
